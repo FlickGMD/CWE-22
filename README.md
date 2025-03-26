@@ -49,7 +49,7 @@ La herramienta utiliza los siguientes módulos de Python:
 - `signal`
 - `Colors` (módulo personalizado para manejar colores en la salida)
 
-## Advertencia
+## ⚠️ Advertencia
 Este script está diseñado para fines educativos y de auditoría de seguridad en entornos autorizados. **El uso indebido de esta herramienta puede ser ilegal.**
 
 ## Autor
