@@ -14,12 +14,13 @@ CWE-22 es una herramienta escrita en Python para auditar vulnerabilidades de Pat
 ## Instalación
 Clona el repositorio:
 ```bash
-$ git clone https://github.com/FlickGMD/CWE-22.git
-$ cd CWE-22
+git clone https://github.com/FlickGMD/CWE-22.git
+cd CWE-22
 ```
 Instala las dependencias necesarias:
 ```bash
-$ pip install -r requirements.txt
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
 ## Uso
